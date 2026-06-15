@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
-    "AccountGenerator"
+    "AccountGenerator",
+    "SphereCalculator"
   ],
   "java.project.outputPath": "",
 
